@@ -11,8 +11,6 @@ Currently, I work as a Tech Manager at Facily. My journey in software developmen
 * ✉️  You can contact me at [lewalmeida@icloud.com](mailto:lewalmeida@icloud.com)
 * 🚀  I'm currently working on [Facily](http://web.faci.ly)
 
-<a href="https://www.github.com/lewalmeida" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lewalmeida?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
