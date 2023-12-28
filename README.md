@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Currently, I work as a Tech Manager at Facily. My journey in software development has led me to specialize in Node.js, TypeScript, and Vue.js, but this adventure began much earlier, exploring Python, PHP, Angular, React.js, and React Native. 🚀 At Facily, I have the privilege of leading teams in the quest for innovative solutions. I see each challenge as an opportunity for learning and growth, both personally and collectively. I highly value an environment that fosters creativity and teamwork. 💡 My passion for exploring new technologies and implementing best practices not only drives my work but also inspires others to exceed their limits. I believe in creating a space where everyone can grow together, exploring new ideas and perspectives. 🌟 Beyond technical skills, I place great value on human connection and open communication. I believe that true innovation arises when diverse individuals come together, share ideas, and collaborate to achieve common goals. 🔍 I'm always open to new connections and challenges. If you're seeking someone passionate about technology and dedicated to helping teams reach their full potential, I'd love to exchange experiences and explore how I can contribute to your projects.
+Currently, I work as a Tech Manager at Facily. My journey in software development has led me to specialize in Node.js, TypeScript, and Vue.js, but this adventure began much earlier, exploring Python, PHP, Angular, React.js, and React Native. 
+
+🚀 At Facily, I have the privilege of leading teams in the quest for innovative solutions. I see each challenge as an opportunity for learning and growth, both personally and collectively. I highly value an environment that fosters creativity and teamwork. 
+
+💡 My passion for exploring new technologies and implementing best practices not only drives my work but also inspires others to exceed their limits. I believe in creating a space where everyone can grow together, exploring new ideas and perspectives. 
+
+🌟 Beyond technical skills, I place great value on human connection and open communication. I believe that true innovation arises when diverse individuals come together, share ideas, and collaborate to achieve common goals. 
+
+🔍 I'm always open to new connections and challenges. If you're seeking someone passionate about technology and dedicated to helping teams reach their full potential, I'd love to exchange experiences and explore how I can contribute to your projects.
 
 * 🌍  I'm based in Florianópolis/Brazil
 * 🖥️  See my portfolio at [my website](http://lewalmeida.com.br)
