@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Currently, I work as a Tech Manager at Facily. My journey in software development has led me to specialize in Node.js, TypeScript, and Vue.js, but this adventure began much earlier, exploring Python, PHP, Angular, React.js, and React Native. 
+Currently, I work as a Staff Software Engineer at Tupi. My journey in software development has led me to specialize in Node.js, TypeScript, and Vue.js, but this adventure began much earlier, exploring Python, PHP, Angular, React.js, and React Native. 
 
 🚀 At Facily, I have the privilege of leading teams in the quest for innovative solutions. I see each challenge as an opportunity for learning and growth, both personally and collectively. I highly value an environment that fosters creativity and teamwork. 
 
