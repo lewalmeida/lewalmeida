@@ -15,9 +15,9 @@ Currently, I work as a Staff Software Engineer at Tupi. My journey in software d
 🔍 I'm always open to new connections and challenges. If you're seeking someone passionate about technology and dedicated to helping teams reach their full potential, I'd love to exchange experiences and explore how I can contribute to your projects.
 
 * 🌍  I'm based in Florianópolis/Brazil
-* 🖥️  See my portfolio at [my website](http://lewalmeida.com.br)
+* 🖥️  See my portfolio at [my website](https://lewalmeida.com.br)
 * ✉️  You can contact me at [lewalmeida@icloud.com](mailto:lewalmeida@icloud.com)
-* 🚀  I'm currently working on [Facily](http://web.faci.ly)
+* 🚀  I'm currently working at [Tupi](https://tupimob.com)
 
 ### Skills
 
